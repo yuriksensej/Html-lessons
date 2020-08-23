@@ -1,0 +1,11 @@
+body{
+background-color: #49a450;
+}
+header {
+  width: auto;
+  height: auto;
+}
+#backgroundIMG{
+  width: 50%;
+  background-position: center;
+}
