@@ -1,5 +1,5 @@
 body{
-background-color: #49a450;
+
 }
 header {
   width: auto;
@@ -8,4 +8,15 @@ header {
 #backgroundIMG{
   width: 50%;
   background-position: center;
+}
+.green{
+  color: #727a9f;
+  background-color: #ccd6c7;
+}
+.yellow{
+  color: #9f7297;
+  background-color: #e2dd69;
+}
+#highlight{
+  color: red;
 }
