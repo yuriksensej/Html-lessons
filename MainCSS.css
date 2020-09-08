@@ -1,22 +1,18 @@
-body{
+table,
+td {
+  border: 1px solid #ccc;
+}
 
+table {
+  min-width: 500px;
 }
-header {
-  width: auto;
-  height: auto;
+
+th {
+  width: 25%;
 }
-#backgroundIMG{
-  width: 50%;
-  background-position: center;
-}
-.green{
-  color: #727a9f;
-  background-color: #ccd6c7;
-}
-.yellow{
-  color: #9f7297;
-  background-color: #e2dd69;
-}
-#highlight{
-  color: red;
+
+th {
+  background-color: black;
+  color: white;
+
 }
